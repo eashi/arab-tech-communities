@@ -1,0 +1,10 @@
+.post__content {
+  ul {
+    li {
+      &::before {
+        position: unset;
+        margin-left: 5px;
+      }
+    }
+  }
+}
